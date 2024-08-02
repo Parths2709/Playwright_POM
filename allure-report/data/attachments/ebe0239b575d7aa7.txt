@@ -1,0 +1,17 @@
+[
+  'ZARA COAT 3$ 31500 View Add To Cart',
+  'ADIDAS ORIGINAL$ 31500 View Add To Cart',
+  'IPHONE 13 PRO$ 231500 View Add To Cart'
+]
+Added Product: IPHONE 13 PRO
+true
+Coupon Message: * Coupon Applied
+true
+Resigter User Email: Miketest240611@yopmail.com
+Country:  India
+Order Conformation message:  Thankyou for the order. 
+true
+Order ID:  | 669df16fae2afd4c0b2d7ba4 | 
+true
+OrderId on History Page: 669df16fae2afd4c0b2d7ba4
+true
